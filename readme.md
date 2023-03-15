@@ -21,4 +21,4 @@ When error apeears, You can run it with Chrome instead.
 ##### REACT DEPLOYMENT ON HEROKU:   <i>[DOCUMENTATION](https://blog.heroku.com/deploying-react-with-zero-configuration)</i>
 
 </br></br>
-#### Enviroment testing:[read this](./README.md)
+#### Enviroment testing:[read this](./npmtesting.md)
